@@ -2,7 +2,7 @@
 - 👀 I’m interested in Doing Some sneeky activites.
 - 🌱 I’m currently learning Everything.
 - 💞️ I’m looking to collaborate on (Not decided)
-- 📫 How to reach me GTMSudarshan#1020
+- 📫 How to reach me 
 
 <!---
 GTMSudarshan/GTMSudarshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
